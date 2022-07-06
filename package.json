@@ -1,0 +1,11 @@
+{
+  "name": "como-aprender-reactjs",
+  "version": "1.0.0",
+  "description": "Curso sobre cómo aprender ReactJs con Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Cornejo @imJorgeDev",
+  "license": "MIT"
+}
